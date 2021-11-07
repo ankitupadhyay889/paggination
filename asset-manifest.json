@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paggination/static/css/main.3c0b5a21.chunk.css",
+    "main.js": "/paggination/static/js/main.c85b6de3.chunk.js",
+    "main.js.map": "/paggination/static/js/main.c85b6de3.chunk.js.map",
+    "runtime-main.js": "/paggination/static/js/runtime-main.05114992.js",
+    "runtime-main.js.map": "/paggination/static/js/runtime-main.05114992.js.map",
+    "static/js/2.626c51c8.chunk.js": "/paggination/static/js/2.626c51c8.chunk.js",
+    "static/js/2.626c51c8.chunk.js.map": "/paggination/static/js/2.626c51c8.chunk.js.map",
+    "index.html": "/paggination/index.html",
+    "precache-manifest.52822aa5017eecb25b57136537e73582.js": "/paggination/precache-manifest.52822aa5017eecb25b57136537e73582.js",
+    "service-worker.js": "/paggination/service-worker.js",
+    "static/css/main.3c0b5a21.chunk.css.map": "/paggination/static/css/main.3c0b5a21.chunk.css.map",
+    "static/js/2.626c51c8.chunk.js.LICENSE.txt": "/paggination/static/js/2.626c51c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05114992.js",
+    "static/js/2.626c51c8.chunk.js",
+    "static/css/main.3c0b5a21.chunk.css",
+    "static/js/main.c85b6de3.chunk.js"
+  ]
+}
